@@ -3,3 +3,8 @@ url: https://swasilan.github.io/esphome-epson-eh-tw3200-rs232/
 # remote_theme: just-the-docs/just-the-docs
 remote_theme: artemsheludko/flexible-jekyll
 title: "Jekyll Actions Demo"
+
+
+# Author Settings
+author: Sascha Waser
+author-img: image/_DSC2403.jpg
