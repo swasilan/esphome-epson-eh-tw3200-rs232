@@ -1,3 +1,4 @@
 # _config.yml
 url: https://swasilan.github.io/esphome-epson-eh-tw3200-rs232/
+theme: just-the-docs
 title: "Jekyll Actions Demo"
